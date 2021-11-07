@@ -39,8 +39,8 @@ el objetivo es encontrar un camino más corto o pequeño
  
 Bibliografía: 
 
-[Matemáticas Discretas con Aplicaciones, 4a. Ed. Susana S. Epp](http://www.cengage.com.mx/ls/matematicas-discretas-con-aplicaciones-4a-ed/)
-[Algoritmo de Dijkstra - Wikipedia](http://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra)
+1. [Matemáticas Discretas con Aplicaciones, 4a. Ed. Susana S. Epp](http://www.cengage.com.mx/ls/matematicas-discretas-con-aplicaciones-4a-ed/)
+2. [Algoritmo de Dijkstra - Wikipedia](http://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra)
 
 
 
