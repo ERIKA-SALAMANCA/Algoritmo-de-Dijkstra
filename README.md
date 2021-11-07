@@ -27,13 +27,16 @@ y ordena el coste de las aristas y va eligiendo las aristas de menor coste con d
 
 * Aplicación del algoritmo
 
-1.Son muy diversas y de gran importancia en distintas áreas del conocimiento, un ejemplo sería el camino de paquetes por los routers; se considera una red telefónica, 
+1. Son muy diversas y de gran importancia en distintas áreas del conocimiento, un ejemplo sería el camino de paquetes por los routers; se considera una red telefónica, 
 en un tiempo estimado ya que un mensaje puede tardar bastante tiempo en atravesar cada línea.
 En este ejemplo, se tiene una red de costes en los arcos y dos nodos especiales, el nodo de comienzo y el de finalizar, 
 el objetivo es encontrar un camino más corto o pequeño
 
 
-
+ 
+ 
+ 
+ 
 Bibliografía: 
 
 [Matemáticas Discretas con Aplicaciones, 4a. Ed. Susana S. Epp](http://www.cengage.com.mx/ls/matematicas-discretas-con-aplicaciones-4a-ed/)
