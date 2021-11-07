@@ -16,7 +16,7 @@ cuando se obtiene el camino más corto desde el vértice origen, al resto de vé
 El problema es que incluso para los grafos pequeños usando Kruskal o Prim podría tomar mucho tiempo.
 Mientras que el algoritmo de Dijkstra podría hacer el trabajo en pocos segundos.
 
-*Dijkstra comparado con Prim y Kruskal
+* Dijkstra comparado con Prim y Kruskal
 El proceso que subyace en el algoritmo de Dijkstra es similar al proceso utilizado en el algoritmo de Prim. 
 El Propósito de Prim es encontrar un árbol de expansión mínimo que conecta todos los vértices del grafo; 
 Dijkstra se ocupa sólo de dos vértices. Prim parte de un vertice y va añadiendo vertices cuyo coste sea minimo, 
