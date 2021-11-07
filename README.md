@@ -23,3 +23,23 @@ El Propósito de Prim es encontrar un árbol de expansión mínimo que conecta t
 Dijkstra se ocupa sólo de dos vértices. Prim parte de un vertice y va añadiendo vertices cuyo coste sea minimo, 
 así llegando a obtener todos los vértices. Kruskal el fin es el mismo que Prim, solo que parte con todos los vértices 
 y ordena el coste de las aristas y va eligiendo las aristas de menor coste con dos premisas, no repetir vértices y sin hacer ningun bucle.
+
+
+* Aplicación del algoritmo
+
+1.Son muy diversas y de gran importancia en distintas áreas del conocimiento, un ejemplo sería el camino de paquetes por los routers; se considera una red telefónica, 
+en un tiempo estimado ya que un mensaje puede tardar bastante tiempo en atravesar cada línea.
+En este ejemplo, se tiene una red de costes en los arcos y dos nodos especiales, el nodo de comienzo y el de finalizar, 
+el objetivo es encontrar un camino más corto o pequeño
+
+
+
+Bibliografía: 
+
+[Matemáticas Discretas con Aplicaciones, 4a. Ed. Susana S. Epp](http://www.cengage.com.mx/ls/matematicas-discretas-con-aplicaciones-4a-ed/)
+[Algoritmo de Dijkstra - Wikipedia](http://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra)
+
+
+
+ 
+
